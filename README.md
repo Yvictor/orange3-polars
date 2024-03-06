@@ -1,7 +1,7 @@
-Orange3 Example Add-on
+Orange3 Polars Add-on
 ======================
 
-This is an example add-on for [Orange3](http://orange.biolab.si). Add-on can extend Orange either 
+This is an Polars add-on for [Orange3](http://orange.biolab.si). Add-on can extend Orange either 
 in scripting or GUI part, or in both. We here focus on the GUI part and implement a simple (empty) widget,
 register it with Orange and add a new workflow with this widget to example tutorials.
 
